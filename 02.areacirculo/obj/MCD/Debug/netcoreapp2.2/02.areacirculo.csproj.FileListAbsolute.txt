@@ -1,0 +1,11 @@
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\bin\MCD\Debug\netcoreapp2.2\02.areacirculo.deps.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\bin\MCD\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\bin\MCD\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.dev.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\bin\MCD\Debug\netcoreapp2.2\02.areacirculo.dll
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\bin\MCD\Debug\netcoreapp2.2\02.areacirculo.pdb
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\obj\MCD\Debug\netcoreapp2.2\02.areacirculo.csprojAssemblyReference.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\obj\MCD\Debug\netcoreapp2.2\02.areacirculo.csproj.CoreCompileInputs.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\obj\MCD\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfoInputs.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\obj\MCD\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfo.cs
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\obj\MCD\Debug\netcoreapp2.2\02.areacirculo.dll
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\02.areacirculo\obj\MCD\Debug\netcoreapp2.2\02.areacirculo.pdb
