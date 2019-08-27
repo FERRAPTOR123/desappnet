@@ -1,0 +1,11 @@
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\obj\MCD\Debug\netcoreapp2.2\06.pizza.csprojAssemblyReference.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\obj\MCD\Debug\netcoreapp2.2\06.pizza.csproj.CoreCompileInputs.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\obj\MCD\Debug\netcoreapp2.2\06.pizza.AssemblyInfoInputs.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\obj\MCD\Debug\netcoreapp2.2\06.pizza.AssemblyInfo.cs
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\bin\MCD\Debug\netcoreapp2.2\06.pizza.deps.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\bin\MCD\Debug\netcoreapp2.2\06.pizza.runtimeconfig.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\bin\MCD\Debug\netcoreapp2.2\06.pizza.runtimeconfig.dev.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\bin\MCD\Debug\netcoreapp2.2\06.pizza.dll
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\bin\MCD\Debug\netcoreapp2.2\06.pizza.pdb
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\obj\MCD\Debug\netcoreapp2.2\06.pizza.dll
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\06.pizza\obj\MCD\Debug\netcoreapp2.2\06.pizza.pdb
