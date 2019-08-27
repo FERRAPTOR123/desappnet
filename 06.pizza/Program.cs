@@ -8,8 +8,18 @@ namespace _06.pizza
         {
             String tamano="", ingredientes="", cubierta="", para="";
             String[] ing;
+            char tam,cub,par;
 
-            
+            if (args.Length<4)
+            {
+                Conosole.Clear();
+                Console.WriteLine("Debes especificar como quieres tu pizza \n");
+                Console.WriteLine("<Tamano> <Ingredientes> <Cubierta> <Para>");
+                Menu();
+                return 1;
+
+            }
+
 
             return 0;
         }
