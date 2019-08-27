@@ -1,0 +1,11 @@
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\obj\MCD\Debug\netcoreapp2.2\05.ciclos.csprojAssemblyReference.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\obj\MCD\Debug\netcoreapp2.2\05.ciclos.csproj.CoreCompileInputs.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\obj\MCD\Debug\netcoreapp2.2\05.ciclos.AssemblyInfoInputs.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\obj\MCD\Debug\netcoreapp2.2\05.ciclos.AssemblyInfo.cs
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\bin\MCD\Debug\netcoreapp2.2\05.ciclos.deps.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\bin\MCD\Debug\netcoreapp2.2\05.ciclos.runtimeconfig.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\bin\MCD\Debug\netcoreapp2.2\05.ciclos.runtimeconfig.dev.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\bin\MCD\Debug\netcoreapp2.2\05.ciclos.dll
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\bin\MCD\Debug\netcoreapp2.2\05.ciclos.pdb
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\obj\MCD\Debug\netcoreapp2.2\05.ciclos.dll
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\05.ciclos\obj\MCD\Debug\netcoreapp2.2\05.ciclos.pdb
