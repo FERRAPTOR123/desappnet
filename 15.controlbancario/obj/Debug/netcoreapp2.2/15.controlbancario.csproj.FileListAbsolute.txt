@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/bin/Debug/netcoreapp2.2/15.controlbancario.deps.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/bin/Debug/netcoreapp2.2/15.controlbancario.runtimeconfig.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/bin/Debug/netcoreapp2.2/15.controlbancario.runtimeconfig.dev.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/bin/Debug/netcoreapp2.2/15.controlbancario.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/bin/Debug/netcoreapp2.2/15.controlbancario.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/obj/Debug/netcoreapp2.2/15.controlbancario.csprojAssemblyReference.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/obj/Debug/netcoreapp2.2/15.controlbancario.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/obj/Debug/netcoreapp2.2/15.controlbancario.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/obj/Debug/netcoreapp2.2/15.controlbancario.AssemblyInfo.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/obj/Debug/netcoreapp2.2/15.controlbancario.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/15.controlbancario/obj/Debug/netcoreapp2.2/15.controlbancario.pdb
