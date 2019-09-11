@@ -53,13 +53,9 @@ namespace Examen.Clases
         }
 
         public double antiguedad(){
-            string fechaini = "";
-            fechaini = Fecha;
-            DateTime fechaini1;
-            fechaini1 = Convert.ToDateTime(fechaini, new CultureInfo("es-ES"));
-            //fecha_DataTime=Convert.ToDateTime(fecha,new CultureInfo("es-ES"));
-            var horas=(DateTime.Now-fecha_DataTime).TotalDays;
-            return horas/365;
+            fecha_DataTime=Convert.ToDateTime(fecha,new CultureInfo("es-ES"));
+            var dias=(DateTime.Now-fecha_DataTime).TotalDays;
+            return dias/365;
         }
 
 

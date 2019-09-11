@@ -59,18 +59,18 @@ namespace Examen
             
             Console.WriteLine("Ip: "+nodo1.Ip+ " Tipo: "+nodo1.Tipo+"\n");
             Console.WriteLine("Vulnerabilidades"+"\n");
-            Console.WriteLine("Clave: "+ vul1.Clave+" Vendedor: "+ vul1.Vendedor+" Descripcion: "+vul1.Descripcion+" Tipo: "+vul1.Tipo+ " Fecha: "+ vul1.Fecha+" Antiguedad: "+ vul1.antiguedad());
-            Console.WriteLine("Clave: "+ vul2.Clave+" Vendedor: "+ vul2.Vendedor+" Descripcion: "+vul2.Descripcion+" Tipo: "+vul2.Tipo+ " Fecha: "+ vul2.Fecha+" Antiguedad: "+ vul2.antiguedad()+"\n");
+            Console.WriteLine("Clave: "+ vul1.Clave+" Vendedor: "+ vul1.Vendedor+" Descripcion: "+vul1.Descripcion+" Tipo: "+vul1.Tipo+ " Fecha: "+ vul1.Fecha+" Antiguedad en años: "+ vul1.antiguedad());
+            Console.WriteLine("Clave: "+ vul2.Clave+" Vendedor: "+ vul2.Vendedor+" Descripcion: "+vul2.Descripcion+" Tipo: "+vul2.Tipo+ " Fecha: "+ vul2.Fecha+" Antiguedad en años: "+ vul2.antiguedad()+"\n");
             
             Console.WriteLine("Ip: "+nodo2.Ip+ " Tipo: "+nodo2.Tipo+"\n");
             Console.WriteLine("Vulnerabilidades"+"\n");
-            Console.WriteLine("Clave: "+ vul3.Clave+" Vendedor: "+ vul3.Vendedor+" Descripcion: "+vul3.Descripcion+" Tipo: "+vul3.Tipo+ " Fecha: "+ vul3.Fecha+" Antiguedad: "+ vul3.antiguedad()+"\n");
+            Console.WriteLine("Clave: "+ vul3.Clave+" Vendedor: "+ vul3.Vendedor+" Descripcion: "+vul3.Descripcion+" Tipo: "+vul3.Tipo+ " Fecha: "+ vul3.Fecha+" Antiguedad en años: "+ vul3.antiguedad()+"\n");
 
             Console.WriteLine("Ip: "+nodo3.Ip+ " Tipo: "+nodo3.Tipo+"\n");
             Console.WriteLine("Vulnerabilidades"+"\n");
-            Console.WriteLine("Clave: "+ vul4.Clave+" Vendedor: "+ vul4.Vendedor+" Descripcion: "+vul4.Descripcion+" Tipo: "+vul4.Tipo+ " Fecha: "+ vul4.Fecha+" Antiguedad: "+ vul4.antiguedad() );
-            Console.WriteLine("Clave: "+ vul5.Clave+" Vendedor: "+ vul5.Vendedor+" Descripcion: "+vul5.Descripcion+" Tipo: "+vul5.Tipo+ " Fecha: "+ vul5.Fecha+" Antiguedad: "+ vul5.antiguedad() );
-            Console.WriteLine("Clave: "+ vul6.Clave+" Vendedor: "+ vul6.Vendedor+" Descripcion: "+vul6.Descripcion+" Tipo: "+vul6.Tipo+ " Fecha: "+ vul6.Fecha+" Antiguedad: "+ vul6.antiguedad() +"\n");
+            Console.WriteLine("Clave: "+ vul4.Clave+" Vendedor: "+ vul4.Vendedor+" Descripcion: "+vul4.Descripcion+" Tipo: "+vul4.Tipo+ " Fecha: "+ vul4.Fecha+" Antiguedad en años: "+ vul4.antiguedad() );
+            Console.WriteLine("Clave: "+ vul5.Clave+" Vendedor: "+ vul5.Vendedor+" Descripcion: "+vul5.Descripcion+" Tipo: "+vul5.Tipo+ " Fecha: "+ vul5.Fecha+" Antiguedad en años: "+ vul5.antiguedad() );
+            Console.WriteLine("Clave: "+ vul6.Clave+" Vendedor: "+ vul6.Vendedor+" Descripcion: "+vul6.Descripcion+" Tipo: "+vul6.Tipo+ " Fecha: "+ vul6.Fecha+" Antiguedad en años: "+ vul6.antiguedad() +"\n");
 
             Console.WriteLine("Ip: "+nodo4.Ip+ " Tipo: "+nodo3.Tipo+"\n");
             Console.WriteLine("Vulnerabilidades"+"\n");
