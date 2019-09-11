@@ -1,0 +1,11 @@
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\obj\MCD\Debug\netcoreapp2.2\examen.csprojAssemblyReference.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\obj\MCD\Debug\netcoreapp2.2\examen.csproj.CoreCompileInputs.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\obj\MCD\Debug\netcoreapp2.2\examen.AssemblyInfoInputs.cache
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\obj\MCD\Debug\netcoreapp2.2\examen.AssemblyInfo.cs
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\bin\MCD\Debug\netcoreapp2.2\examen.deps.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\bin\MCD\Debug\netcoreapp2.2\examen.runtimeconfig.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\bin\MCD\Debug\netcoreapp2.2\examen.runtimeconfig.dev.json
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\bin\MCD\Debug\netcoreapp2.2\examen.dll
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\bin\MCD\Debug\netcoreapp2.2\examen.pdb
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\obj\MCD\Debug\netcoreapp2.2\examen.dll
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\examen\obj\MCD\Debug\netcoreapp2.2\examen.pdb
