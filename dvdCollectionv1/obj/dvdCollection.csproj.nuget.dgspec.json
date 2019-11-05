@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollection/dvdCollection.csproj": {}
+    "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\dvdCollectionv1\\dvdCollection.csproj": {}
   },
   "projects": {
-    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollection/dvdCollection.csproj": {
+    "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\dvdCollectionv1\\dvdCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollection/dvdCollection.csproj",
+        "projectUniqueName": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\dvdCollectionv1\\dvdCollection.csproj",
         "projectName": "dvdCollection",
-        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollection/dvdCollection.csproj",
-        "packagesPath": "/Users/castr/.nuget/packages/",
-        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollection/obj/",
+        "projectPath": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\dvdCollectionv1\\dvdCollection.csproj",
+        "packagesPath": "C:\\Users\\PAREDES\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\dvdCollectionv1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/castr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PAREDES\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

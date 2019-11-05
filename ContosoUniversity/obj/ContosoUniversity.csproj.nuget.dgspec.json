@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/ContosoUniversity.csproj": {}
+    "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/ContosoUniversity.csproj": {
+    "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/ContosoUniversity.csproj",
-        "packagesPath": "/Users/castr/.nuget/packages/",
-        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/obj/",
+        "projectPath": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversity\\ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\PAREDES\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/castr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PAREDES\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -47,6 +47,10 @@
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
               "target": "Package",
               "version": "[2.2.0, )"
             },
