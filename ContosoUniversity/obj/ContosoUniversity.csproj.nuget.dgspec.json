@@ -52,7 +52,7 @@
             },
             "Microsoft.CodeAnalysis.CSharp.Workspaces": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.8.0-dev-62823-01, )"
             },
             "Microsoft.EntityFrameworkCore.SQLite": {
               "target": "Package",

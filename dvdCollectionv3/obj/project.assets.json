@@ -13287,6 +13287,7 @@
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
+      "Microsoft.CodeAnalysis.CSharp.Workspaces >= 2.8.0",
       "Microsoft.EntityFrameworkCore.SQLite >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.0"
@@ -13341,6 +13342,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+            "target": "Package",
+            "version": "[2.8.0, )"
           },
           "Microsoft.EntityFrameworkCore.SQLite": {
             "target": "Package",

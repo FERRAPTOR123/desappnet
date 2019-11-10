@@ -1631,11 +1631,11 @@
           "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
+      "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0-dev-62823-01": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.CSharp": "[2.8.0]",
-          "Microsoft.CodeAnalysis.Workspaces.Common": "[2.8.0]"
+          "Microsoft.CodeAnalysis.CSharp": "[2.8.0-dev-62823-01]",
+          "Microsoft.CodeAnalysis.Workspaces.Common": "[2.8.0-dev-62823-01]"
         },
         "compile": {
           "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.Workspaces.dll": {}
@@ -1658,10 +1658,10 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.Razor.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.Workspaces.Common/2.8.0": {
+      "Microsoft.CodeAnalysis.Workspaces.Common/2.8.0-dev-62823-01": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Common": "[2.8.0]",
+          "Microsoft.CodeAnalysis.Common": "[2.8.0-dev-62823-01]",
           "System.Composition": "1.0.31",
           "System.Diagnostics.Contracts": "4.3.0",
           "System.Linq.Parallel": "4.3.0",
@@ -6227,17 +6227,17 @@
         "microsoft.codeanalysis.csharp.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
-      "sha512": "EJWaxi2bI47iEZen/nZkJEDZCrP9Oj3PJtMwBv34Z0ZvvdSkpgsdqlHSud8d5vC53LnCXLfBLewfqHcILDVSDw==",
+    "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0-dev-62823-01": {
+      "sha512": "9VGmirc3PMViov3DxUZkQ2QaOBwysFLKojR94w5mBylaIYDRXP4meJn3xOmYKiZJrQXzmSZKHUtKiv3Y9iQYUw==",
       "type": "package",
-      "path": "microsoft.codeanalysis.csharp.workspaces/2.8.0",
+      "path": "microsoft.codeanalysis.csharp.workspaces/2.8.0-dev-62823-01",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.Workspaces.dll",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.Workspaces.pdb",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.Workspaces.xml",
-        "microsoft.codeanalysis.csharp.workspaces.2.8.0.nupkg.sha512",
+        "microsoft.codeanalysis.csharp.workspaces.2.8.0-dev-62823-01.nupkg.sha512",
         "microsoft.codeanalysis.csharp.workspaces.nuspec"
       ]
     },
@@ -6256,10 +6256,10 @@
         "microsoft.codeanalysis.razor.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.Workspaces.Common/2.8.0": {
-      "sha512": "tJlJ99SD8bHBAXShOG/pXQ1K118cnsF01obEf9aAtdgLbw3yEPahZ7qvWeGMjrheUhvOsSkv/wTKYg9euKa8MQ==",
+    "Microsoft.CodeAnalysis.Workspaces.Common/2.8.0-dev-62823-01": {
+      "sha512": "YvKAFMVUtHq6GtgHUcUD7fdwaE09SeHuRTgFPpeJs9BfXs6bHOuMgvT1yagOIsRmbX4uFnxae08a24I+RaeUgg==",
       "type": "package",
-      "path": "microsoft.codeanalysis.workspaces.common/2.8.0",
+      "path": "microsoft.codeanalysis.workspaces.common/2.8.0-dev-62823-01",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6272,7 +6272,7 @@
         "lib/netstandard1.3/Microsoft.CodeAnalysis.Workspaces.dll",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.Workspaces.pdb",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.Workspaces.xml",
-        "microsoft.codeanalysis.workspaces.common.2.8.0.nupkg.sha512",
+        "microsoft.codeanalysis.workspaces.common.2.8.0-dev-62823-01.nupkg.sha512",
         "microsoft.codeanalysis.workspaces.common.nuspec"
       ]
     },
@@ -13287,6 +13287,7 @@
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
+      "Microsoft.CodeAnalysis.CSharp.Workspaces >= 2.8.0-dev-62823-01",
       "Microsoft.EntityFrameworkCore.SQLite >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.0"
@@ -13342,6 +13343,10 @@
             "target": "Package",
             "version": "[2.2.0, )"
           },
+          "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+            "target": "Package",
+            "version": "[2.8.0-dev-62823-01, )"
+          },
           "Microsoft.EntityFrameworkCore.SQLite": {
             "target": "Package",
             "version": "[2.2.0, )"
@@ -13364,5 +13369,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for Microsoft.CodeAnalysis.CSharp. Install/reference Microsoft.CodeAnalysis.CSharp 2.8.0 directly to project ContosoUniversity to resolve this issue. \r\n ContosoUniversity -> Microsoft.VisualStudio.Web.CodeGeneration.Design 2.2.0 -> Microsoft.VisualStudio.Web.CodeGenerators.Mvc 2.2.0 -> Microsoft.VisualStudio.Web.CodeGeneration 2.2.0 -> Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore 2.2.0 -> Microsoft.VisualStudio.Web.CodeGeneration.Core 2.2.0 -> Microsoft.VisualStudio.Web.CodeGeneration.Templating 2.2.0 -> Microsoft.CodeAnalysis.CSharp (>= 2.8.0) \r\n ContosoUniversity -> Microsoft.CodeAnalysis.CSharp.Workspaces 2.8.0-dev-62823-01 -> Microsoft.CodeAnalysis.CSharp (= 2.8.0-dev-62823-01).",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
 }

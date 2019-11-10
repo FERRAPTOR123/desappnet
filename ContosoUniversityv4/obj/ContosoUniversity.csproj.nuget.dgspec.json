@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversityv4\\ContosoUniversity.csproj": {}
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversityv4\\ContosoUniversity.csproj": {
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversityv4\\ContosoUniversity.csproj",
+        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversityv4\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\PAREDES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PAREDES\\Documents\\Aplicaciones Avanzadas Web\\ContosoUniversityv4\\obj\\",
+        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/ContosoUniversity.csproj",
+        "packagesPath": "/Users/castr/.nuget/packages/",
+        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/ContosoUniversity/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PAREDES\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/castr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -66,16 +66,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

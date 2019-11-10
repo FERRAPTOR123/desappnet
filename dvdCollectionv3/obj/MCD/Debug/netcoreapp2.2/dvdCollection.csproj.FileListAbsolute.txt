@@ -6,7 +6,6 @@ c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\bin\MCD\De
 C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\bin\MCD\Debug\netcoreapp2.2\dvdCollection.Views.dll
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\bin\MCD\Debug\netcoreapp2.2\dvdCollection.Views.pdb
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.csprojAssemblyReference.cache
-c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.csproj.CoreCompileInputs.cache
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.RazorAssemblyInfo.cache
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.RazorAssemblyInfo.cs
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.AssemblyInfoInputs.cache
@@ -14,6 +13,13 @@ c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\De
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.TagHelpers.input.cache
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.TagHelpers.output.cache
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.RazorCoreGenerate.cache
+c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.RazorTargetAssemblyInfo.cache
+c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.RazorTargetAssemblyInfo.cs
+c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.Views.pdb
+c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.dll
+c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.pdb
+C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.csproj.CopyComplete
+c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.csproj.CoreCompileInputs.cache
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\Razor\Views\FilmGeneres\Create.g.cshtml.cs
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\Razor\Views\FilmGeneres\Delete.g.cshtml.cs
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\Razor\Views\FilmGeneres\Details.g.cshtml.cs
@@ -27,9 +33,3 @@ c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\De
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
 c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
-c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.RazorTargetAssemblyInfo.cache
-c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.RazorTargetAssemblyInfo.cs
-c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.Views.pdb
-c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.dll
-c:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.pdb
-C:\Users\PAREDES\Documents\Aplicaciones Avanzadas Web\dvdCollectionv3\obj\MCD\Debug\netcoreapp2.2\dvdCollection.csproj.CopyComplete
